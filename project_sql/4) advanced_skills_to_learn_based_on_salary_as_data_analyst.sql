@@ -23,9 +23,9 @@ WHERE
 job_title_short = 'Data Analyst' 
 AND
 salary_year_avg IS NOT NULL
---  Focuses on roles with specified salaries, regardless of location
 AND
 job_work_from_home = TRUE
+--  Focuses on roles with specified salaries, regardless of location
 GROUP BY
 skills
 ORDER BY
