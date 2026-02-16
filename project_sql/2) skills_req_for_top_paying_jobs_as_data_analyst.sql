@@ -1,5 +1,7 @@
 /*
-Question: What skills are required for the top-paying data analyst jobs?
+Question: What skills are required for the top-paying data analyst jobs? or 
+Among remote Data Analyst jobs with a specified salary,
+which skills appear most frequently in job postings?
 - Use the top 10 highest-paying Data Analyst jobs from first query
 - Add the specific skills required for these roles
 - Why? It provides a detailed look at which high-paying jobs demand certain skills, 
