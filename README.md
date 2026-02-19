@@ -16,7 +16,16 @@ This project analyzes Data Analyst job postings using PostgreSQL to uncover:
 
 The goal is to translate raw job posting data into actionable career insights using structured SQL.
 
-🔍 SQL queries? Check them out here: [project_sql](/SQL_Project_Data_Job_Analysis/project_sql/)
+🔍 SQL queries? Check them out here: 
+[project_sql](project_sql)
+
+## Dataset Scope
+
+- Data reflects job postings from 2023.
+
+- Results represent the market conditions during that period.
+
+- Salary trends and skill demand may differ in current market conditions.
 
 
 # Background
